@@ -1,0 +1,40 @@
+html, body{
+  width: 100%;
+  height: 100%;
+}
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+header{
+  background: brown ;
+}
+img{
+  width: 400px;
+  height: 300px;
+  text-align: right;
+}
+h1{
+  text-align: center;
+}
+.vse_img{
+  background-color: blanchedalmond;
+}
+.anus{
+  padding: 5px;
+}
+.img_anus{
+  margin-left: 65%;
+}
+.img_eblan{
+  margin-left: 33%;
+  margin-bottom: 10px;
+}
+.hui_osla{
+  background-color: aqua;
+  color: black;
+  border-bottom: 5px solid black;
+}
+.img_text{
+  background-color: blanchedalmond;
+}
